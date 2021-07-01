@@ -16,4 +16,4 @@ He would like us to:
 -Software: Python 3.7.6, Visual Studio Code , 1.57.1, Git Bash
 
 ##Summary
-See Txt. file in Analysis folder
+(See Txt. file in Analysis folder)
