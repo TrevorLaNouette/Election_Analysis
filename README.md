@@ -14,9 +14,9 @@ After creating this code, I was asked to expand upon the election analysis by ad
 
 
 # Resources 
-- Data source: election_results.csb 
+Data source: election_results.csv 
 
-- Software: Python 3.7.6, Visual Studio Code , 1.57.1, Git Bash (to upload)
+Software: Python 3.7.6, Visual Studio Code , 1.57.1, Git Bash (to upload)
 
 
 ## Election-Audit Results:
