@@ -19,7 +19,7 @@ In this project I  was tasked with creating a python code that analizes the data
 - Software: Python 3.7.6, Visual Studio Code , 1.57.1, Git Bash (to upload)
 
 
-## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+## Election-Audit Results:
 
 
 * There were 369,711 votes in this congressional election
@@ -28,16 +28,16 @@ In this project I  was tasked with creating a python code that analizes the data
 ![County Votes](https://user-images.githubusercontent.com/82718969/124504337-e14cd180-dd8c-11eb-8317-0e5e36592a68.png)
 
 
-The county with the largest voter turnout with 306,005 votes was:
+* The county with the largest voter turnout with 306,005 votes was:
 
 ![Largest County Turnout](https://user-images.githubusercontent.com/82718969/124504374-f6296500-dd8c-11eb-9ac9-0c332d8bf128.png)
 
 
-The breakdown of the number of votes and percentage of votes are shown below:
+* The breakdown of the number of votes and percentage of votes are shown below:
 
 ![Candidate Vote Breakdown](https://user-images.githubusercontent.com/82718969/124504401-03deea80-dd8d-11eb-9098-793e16154845.png)
 
-The winner of the election was:
+* The winner of the election was:
 
 ![Candidate Winner](https://user-images.githubusercontent.com/82718969/124504426-0fcaac80-dd8d-11eb-9ab0-a282e1c95191.png)
 
