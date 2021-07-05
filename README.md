@@ -14,8 +14,9 @@ In this project I  was tasked with creating a python code that analizes the data
 
 
 # Resources 
--Data source: election_results.csb 
--Software: Python 3.7.6, Visual Studio Code , 1.57.1, Git Bash (to upload)
+- Data source: election_results.csb 
+
+- Software: Python 3.7.6, Visual Studio Code , 1.57.1, Git Bash (to upload)
 
 
 ## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
@@ -32,7 +33,7 @@ The county with the largest voter turnout with 306,005 votes was:
 ![Largest County Turnout](https://user-images.githubusercontent.com/82718969/124504374-f6296500-dd8c-11eb-9ac9-0c332d8bf128.png)
 
 
-The breakdown of the number of votes and percentage of votes are shown below with vote percentage and votes received:
+The breakdown of the number of votes and percentage of votes are shown below:
 
 ![Candidate Vote Breakdown](https://user-images.githubusercontent.com/82718969/124504401-03deea80-dd8d-11eb-9098-793e16154845.png)
 
