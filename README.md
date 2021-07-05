@@ -10,7 +10,7 @@ In this project I  was tasked with creating a python code that analizes the data
 * calculate the percentage of botes each candidate won.
 * determine the winner of the election based on popular vote.
 
-- After creating this code, I was asked to expand upon the election analysis by adding the voter turn out for each county, the percentage of votes from each county out of the total count, and the county with the highest turn out.
+After creating this code, I was asked to expand upon the election analysis by adding the voter turn out for each county, the percentage of votes from each county out of the total count, and determine the county with the highest vote turnout.
 
 
 # Resources 
