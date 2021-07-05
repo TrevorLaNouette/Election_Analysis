@@ -2,7 +2,7 @@
 
 ## Election Audit Overview
 
-- In this project I  was tasked with creating a python code that analizes the data of an election Colorado to assist in an audit. Members of the Colorado board of electons asked me to:
+In this project I  was tasked with creating a python code that analizes the data of an election Colorado to assist in an audit. Members of the Colorado board of electons asked me to:
 
 * Calculate the total number of votes cast.
 * Get a complete list of candidates who recieve votes.
