@@ -31,8 +31,8 @@ The county with the largest voter turnout with 306,005 votes was:
 
 ![Largest County Turnout](https://user-images.githubusercontent.com/82718969/124504374-f6296500-dd8c-11eb-9ac9-0c332d8bf128.png)
 
--Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-The breakdown of the number of votes and percentage of votes are shown below:
+
+The breakdown of the number of votes and percentage of votes are shown below with vote percentage and votes received:
 
 ![Candidate Vote Breakdown](https://user-images.githubusercontent.com/82718969/124504401-03deea80-dd8d-11eb-9098-793e16154845.png)
 
@@ -41,7 +41,7 @@ The winner of the election was:
 ![Candidate Winner](https://user-images.githubusercontent.com/82718969/124504426-0fcaac80-dd8d-11eb-9ab0-a282e1c95191.png)
 
 
--Election-Audit Summary: 
+- Election-Audit Summary: 
 
 A great thing about the use of this code is that it can be used to for any election as long as the data can be input with the same categories of the CSV files. If data is given in the same categorys presented then the code will be able to analize the vote of any election with different candidates names and counties than the ones presented in this election.
 
